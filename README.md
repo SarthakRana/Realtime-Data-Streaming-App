@@ -32,10 +32,10 @@ Design: https://tinyurl.com/mpt9yj3u
 
 Realtime data streaming design is has many use cases. Some of them are:
 
-1. Real-time Analytics: Process and analyze log and event data as it is generated to gain insights in near real-time.
+1. *Real-time Analytics*: Process and analyze log and event data as it is generated to gain insights in near real-time.
 
-2. Data Lakes: Ingest large streams of data into S3 for long-term storage and processing.
+2. *Data Lakes*: Ingest large streams of data into S3 for long-term storage and processing.
 
-3. Real-time Dashboards: Power dashboards that need up-to-date information.
+3. *Real-time Dashboards*: Power dashboards that need up-to-date information.
 
-4. Machine Learning: Feed real-time data into machine learning models for live predictions or anomaly detection.
+4. *Machine Learning*: Feed real-time data into machine learning models for live predictions or anomaly detection.
